@@ -1,10 +1,15 @@
-# VR-space-project
 # 🚀 Virtual Reality Space Project
 
 An immersive VR experience built in Meta Horizon Worlds that simulates an astronaut's space run. Designed to give children and curious minds around the world the chance to explore outer space from home — something that became especially meaningful in the wake of Covid-19 and widespread lockdowns. The world features interactive elements, a driveable rover, a rocket with an elevator, a gravity room, and educational buildings to explore.
 
 > Built by Khalid Maddred, Joe Saenz, and Richard Chi — EXCELerators 2025
 > Mentor: Prof. Brian King, CSCI
+
+---
+
+## 🎥 Demo
+
+[Click here to watch the demo](https://youtu.be/5ui0Nn9qJAY)
 
 ---
 
@@ -49,6 +54,12 @@ With a clear revision list in hand, we set new goals: improve the textures, fix 
 
 ---
 
+## 📊 Presentation
+
+[View our project slideshow](https://github.com/Kha1id37/VR-space-project/blob/main/20250718%20VR%20EXCELerator%20Project.pdf)
+
+---
+
 ## 📚 What I Learned
 
 ### 🤝 Teamwork & Collaboration:
@@ -74,6 +85,21 @@ One of the most surprising things I discovered during this project is how few ga
 
 ---
 
+## 👤 My Role
+
+For this project I was responsible for building and scripting two of the core interactive features of the world.
+
+- **Rover:** I built the rover from the ground up and scripted all of its movement and driving functionality, making it one of the main ways players explore the space base.
+- **Gravity Room:** I built and scripted an interactive gravity experience where each planet is represented in the room — when you touch a planet, you immediately feel the gravitational pull of that specific planet, giving players a hands-on way to learn about how gravity differs across our solar system.
+
+---
+
+## 👨‍🚀 The Team
+
+![Team Photo](https://github.com/Kha1id37/VR-space-project/blob/main/P1178353.JPG)
+
+---
+
 ## 🚀 Running the Project
 
 To experience the Virtual Reality Space Project:
@@ -82,9 +108,3 @@ To experience the Virtual Reality Space Project:
 2. Search for the world by name within Meta Horizon Worlds.
 3. Enter the world and use your controllers to walk, interact, drive the rover, and explore the space base.
 4. Visit the educational buildings, ride the rocket elevator, and check out the gravity room!
-
----
-
-## 🎥 Demo
-
-Click here to watch the demo (https://youtu.be/5ui0Nn9qJAY)
