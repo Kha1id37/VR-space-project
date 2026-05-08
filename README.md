@@ -82,3 +82,9 @@ To experience the Virtual Reality Space Project:
 2. Search for the world by name within Meta Horizon Worlds.
 3. Enter the world and use your controllers to walk, interact, drive the rover, and explore the space base.
 4. Visit the educational buildings, ride the rocket elevator, and check out the gravity room!
+
+---
+
+## 🎥 Demo
+
+Click here to watch the demo (https://youtu.be/5ui0Nn9qJAY)
